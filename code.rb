@@ -6,5 +6,5 @@ difficulty_answer = gets.chomp
   elsif difficulty_answer == "hard"
 
   else
-    puts "I'm going to ignore that. Now enter easy or hard."
+    puts "I'm going to ignore that. Now enter easy or hard this time."
   end
